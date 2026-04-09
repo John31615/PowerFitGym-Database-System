@@ -121,11 +121,26 @@ This project demonstrates understanding of:
 * Data integrity enforcement
 * Real-world database system implementation
 
+
+---
+## Team Project
+
+This project was completed as part of a **group assignment** for a database development module.
+
+### Team Members
+
+* Ngcebo Enock Mntungwa
+* Tshiamo Maise
+* Gina Gin
+* Oratile Nare
+* Reuben Visser
+
+
 ---
 
 ## Author
 
-**Sihle Mntungwa**
+**Ngcebo Enock Mntungwa**
 Bachelor of Computing – Business Intelligence (Data Science)
 Third Year Student
 
